@@ -1,4 +1,4 @@
-💻 About Me<br>I'm a Student interested in Software Development<br>🔭 I’m currently working on my personal application, Waypoint.<br><br>🌱 I’m currently learning about React Native and mobile development.<br><br>📫 How to reach me: robertclaud2001@gmail.com or connect with me on <br>LinkedIn: www.linkedin.com/in/robert-linguraru-0331752b9<br>Instagram: https://www.instagram.com/robertclaud_/<br><br>⚡ Fun fact: I love cooking, festivals, and good coffee!
+💻 About Me<br>I'm a Student interested in Software Development<br>🔭 I’m currently working on my personal projects, available to look at in my public repos<br><br>🌱 I’m currently learning about C# and .Net development.<br><br>📫 How to reach me: robertclaud2001@gmail.com or connect with me on <br>LinkedIn: www.linkedin.com/in/robert-linguraru-0331752b9<br>Instagram: https://www.instagram.com/robertclaud_/<br><br>⚡ Fun fact: I love cooking, festivals, and good coffee!
 
 
 ## 🌐 Socials:
